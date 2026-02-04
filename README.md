@@ -1,4 +1,4 @@
-## my python projects beginner protfolio
+## my simple python projects protfolio
 
 It's a collection of introductory applications and code written in Python 3.
 These projects were created to understand fundamental programming concepts like functions, loops, condition etc.
